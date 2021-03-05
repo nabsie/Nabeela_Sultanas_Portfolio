@@ -1,17 +1,26 @@
-# Title
+# Portfolio
 
 ## Description
 
-to do
+A portfolio of work samples for potential employers to view.
 
-## Things we did
+## What did we do?
 
-to do
+- created index.html from scratch
+  to do
 
 ## Project link
 
-Click here to view the project on Githubpages
+Click here to view the project on Github pages
 
 ## Screenshots
 
 to do
+
+## Getting started
+
+```
+git clone git@github.com:nabsie/homework_2.git
+cd homework_2
+code .
+```
