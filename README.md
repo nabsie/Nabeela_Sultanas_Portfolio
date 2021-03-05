@@ -29,3 +29,5 @@ git clone git@github.com:nabsie/homework_2.git
 cd homework_2
 code .
 ```
+
+To see the github page please follow the link https://nabsie.github.io/homework_2/.
