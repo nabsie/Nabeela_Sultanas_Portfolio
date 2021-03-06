@@ -65,13 +65,20 @@ body {
 
 .about_section {
   border: 5px solid red;
+  position: relative;
 }
 
 .about_header {
+  text-align: center;
+  font-size: 30px;
+  text-decoration: rgb(107, 13, 126) underline;
+  color: crimson;
+  margin: 0px;
 }
 
 .selfie {
   width: 200px;
   height: 250px;
   border: solid 20px crimson;
+  position: absolute;
 }
