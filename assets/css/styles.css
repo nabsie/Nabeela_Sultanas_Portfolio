@@ -3,6 +3,18 @@ a {
   text-decoration: none;
 }
 
+a:link {
+  color: gold;
+}
+
+a:visited {
+  color: bisque;
+}
+
+a:hover {
+  color: blue;
+}
+
 body {
   margin: 0px;
 }
