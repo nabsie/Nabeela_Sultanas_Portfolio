@@ -1,17 +1,17 @@
-a {
+.header a {
   color: bisque;
   text-decoration: none;
 }
 
-a:link {
+.header a:link {
   color: gold;
 }
 
-a:visited {
+.header a:visited {
   color: bisque;
 }
 
-a:hover {
+.header a:hover {
   color: blue;
 }
 
