@@ -113,6 +113,17 @@ body {
   margin: 5px;
 }
 
-#my-projects h2 {
+#my-projects {
   text-align: center;
+}
+
+.twoimages {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.twoimages div {
+  padding: 10px;
+  margin: 5px;
 }
