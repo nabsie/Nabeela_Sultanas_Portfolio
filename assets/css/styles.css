@@ -76,7 +76,7 @@ body {
   margin: 0px;
 }
 
-.selfie {
+.about_selfie {
   width: 200px;
   height: 250px;
   border: solid 5px crimson;
@@ -95,6 +95,4 @@ body {
   color: #99086d;
   line-break: normal;
   margin-top: 20px;
-  margin-left: 25px;
-  margin-right: 25px;
 }
