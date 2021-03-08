@@ -7,11 +7,8 @@ A portfolio of work samples for potential employers to view.
 ## What did we do?
 
 - created index.html from scratch
-  to do
-
-## Project link
-
-Click here to view the project on Github pages
+- used semantic html elements
+-
 
 ## Screenshots
 
