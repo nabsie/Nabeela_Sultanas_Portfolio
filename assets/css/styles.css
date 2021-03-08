@@ -129,13 +129,9 @@ body {
   margin: 5px;
 }
 
-@media screen and (max-width: 760px);
- {
-  nav {
+@media screen and (max-width: 760px) {
+  .header nav {
     float: none;
-    display: block;
-  }
-  .name_header {
     display: block;
   }
 }
