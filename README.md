@@ -22,9 +22,9 @@ to do
 - Open the index.html file in your default browser
 
 ```
-git clone git@github.com:nabsie/homework_2.git
+git clone git@github.com:nabsie/Nabeela_Sultanas_Portfolio.git
 cd homework_2
 code .
 ```
 
-To see the github page please follow the link https://nabsie.github.io/homework_2/.
+To see the github page please follow the link TODO
