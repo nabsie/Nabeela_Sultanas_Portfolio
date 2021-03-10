@@ -1,6 +1,8 @@
 body {
   margin: 0px;
-  background-color: lavender;
+  background-image: url(../images/hero.jpg);
+  background-position: center;
+  background-size: cover;
 }
 
 .header {
@@ -47,6 +49,9 @@ body {
 
 .header a:hover {
   color: blue;
+}
+
+.hero {
 }
 
 .name_section {
