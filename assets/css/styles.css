@@ -39,6 +39,7 @@ body {
   text-decoration: none;
 }
 
+/* pseudo class for nav links */
 .header a:link {
   color: gold;
 }
@@ -140,6 +141,7 @@ body {
   margin: 5px;
 }
 
+/* mobile devices */
 @media screen and (max-width: 760px) {
   .header nav {
     float: none;
