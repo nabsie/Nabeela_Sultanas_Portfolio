@@ -51,9 +51,6 @@ body {
   color: blue;
 }
 
-.hero {
-}
-
 .name_section {
   display: flex;
   justify-content: center;
@@ -118,18 +115,18 @@ body {
   margin: 5px;
 }
 
-#my-projects {
+#myprojects-container {
   text-align: center;
   border: 5px solid rgb(61, 35, 35);
 }
 
-.twoimages {
+.twoimages-container {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.twoimages div {
+.twoimages-container div {
   padding: 10px;
   margin: 5px;
 }
