@@ -134,11 +134,20 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .twoimages-container div {
   padding: 10px;
   margin: 5px;
+}
+
+.card_title {
+  font-weight: bolder;
+}
+
+footer {
+  text-align: center;
 }
 
 /* mobile */
