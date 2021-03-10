@@ -141,7 +141,7 @@ body {
   margin: 5px;
 }
 
-/* mobile devices */
+/* mobile */
 @media screen and (max-width: 760px) {
   .header nav {
     float: none;
