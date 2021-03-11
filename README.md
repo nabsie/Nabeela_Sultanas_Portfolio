@@ -8,7 +8,13 @@ A portfolio of work samples for potential employers to view.
 
 - created index.html from scratch
 - used semantic html elements
--
+- Added images with alt attributes
+- Added a navbar which scrolls to relevant section of the page
+- Used flexboxes to position items on page
+- used media query to align navbar in header at all times
+- used fontawesome to create links to my social media accounts
+- used a css styling sheet to style my items
+- created a clickable image to direct to github deployed link of project
 
 ## Screenshots
 
