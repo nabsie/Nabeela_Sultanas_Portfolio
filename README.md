@@ -31,7 +31,7 @@ A portfolio of work samples for potential employers to view.
 
 ```
 git clone git@github.com:nabsie/Nabeela_Sultanas_Portfolio.git
-cd homework_2
+cd Nabeela_Sultanas_Portfolio
 code .
 ```
 
