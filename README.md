@@ -18,7 +18,9 @@ A portfolio of work samples for potential employers to view.
 
 ## Screenshots
 
-to do
+![Screenshot1](./assets\images\Screenshot1.png)
+![Screenshot2](assets/images/Screenshot2.png)
+![Screenshot3](assets/images/Screenshot3.png)
 
 ## Getting started
 
